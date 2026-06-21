@@ -1,0 +1,6 @@
+{
+  "name": "Resoleution",
+  "description": "Professional mail-in climbing shoe resoling and repair tracking platform. Customers submit shoe repair requests with photos, get price quotes, and track their repair progress in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
